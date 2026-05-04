@@ -36,6 +36,4 @@ This repository provides a tool to extract and analyze computing node informatio
 ## ⚙️ Usage
 
 ### 1. Login to Sherlock
-
-```bash
-ssh username@sherlock.stanford.edu
+### 2. Run main.py
