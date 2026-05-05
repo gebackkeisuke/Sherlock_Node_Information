@@ -14,7 +14,7 @@ This repository provides a tool to extract and analyze computing node informatio
 
 ---
 
-## 📊 Output Example
+## 📊 Output Example (May 4, 2026)
 
 | NODE | CLASS | PARTITION | CPUS | TOTAL_NODES | TOTAL_CPUS | MEMORY[GB/node] | MEMORY[GB/cpu] | CPU_MNF | CPU_GEN | CPU_SKU | CPU_FRQ | GPU_SKU | GPU_MEM |
 |------|-------|------------|------|--------------|-------------|-----------------|----------------|----------|---------|----------|----------|---------|--------|
